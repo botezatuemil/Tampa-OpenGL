@@ -1,0 +1,11 @@
+﻿  Camera.cpp
+C:\Users\LeonardBejgu\Documents\GithubMixconix\SMM-Project\SMM-Project\Camera.h(2,10): fatal error C1083: Cannot open include file: 'GL/glew.h': No such file or directory
+  Mesh.cpp
+C:\Users\LeonardBejgu\Documents\GithubMixconix\SMM-Project\SMM-Project\Mesh.h(5,10): fatal error C1083: Cannot open include file: 'GL/glew.h': No such file or directory
+  Model.cpp
+C:\Users\LeonardBejgu\Documents\GithubMixconix\SMM-Project\SMM-Project\Model.h(2,10): fatal error C1083: Cannot open include file: 'Gl/glew.h': No such file or directory
+  Shader.cpp
+C:\Users\LeonardBejgu\Documents\GithubMixconix\SMM-Project\SMM-Project\Shader.h(12,10): fatal error C1083: Cannot open include file: 'GL/glew.h': No such file or directory
+  SMM-Project.cpp
+C:\Users\LeonardBejgu\Documents\GithubMixconix\SMM-Project\SMM-Project\SMM-Project.cpp(7,10): fatal error C1083: Cannot open include file: 'GL/glew.h': No such file or directory
+  Generating Code...
